@@ -1,4 +1,4 @@
-sudo:requierd
+sudo: requierd
 dist: trusty
 
 script:
