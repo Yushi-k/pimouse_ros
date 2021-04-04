@@ -1,11 +1,11 @@
 #!/bin/bash -xve
 
 #required packages
-sudo pip install --upgrade pip
 sudo apt update
-sudo apt install python-catkin-pkg
+sudo pip install --upgrade pip
+sudo apt upsudo apt install python-catkit()-pkg
 pip install empy
-pip install pyyaml
+pi install pyyaml
 pip install rospkg
 
 #ros install
