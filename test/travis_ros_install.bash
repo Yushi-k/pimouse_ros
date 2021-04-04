@@ -1,8 +1,9 @@
 #!/bin/bash -xve
 
 #required packages
+apt update
 sudo pip install --upgrade pip
-sudo apt-get install python-catkin-pkg
+sudo apt install python-catkin-pkg
 pip install empy
 pip install pyyaml
 pip install rospkg
