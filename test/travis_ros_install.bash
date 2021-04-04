@@ -2,7 +2,7 @@
 
 #required packages
 sudo pip install --upgrade pip
-pip install catkin_pkg
+sudo apt-get install python-catkin-pkg
 pip install empy
 pip install pyyaml
 pip install rospkg
