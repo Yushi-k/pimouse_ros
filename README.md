@@ -3,7 +3,3 @@
 
 # pimouse_ros
 For ROS practice
-<<<<<<< HEAD
-
-=======
->>>>>>> 8d29d759dbfa467285ccaec502473bcfad4d0a78
