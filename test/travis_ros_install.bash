@@ -3,8 +3,7 @@
 #required packages
 sudo pip install --upgrade pip
 wget -q -O - https://dl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
-sudo apt update
-sudo apt install python-catkin-pkg
+sudo apt install catkin-pkg
 pip install empy
 pip install pyyaml
 pip install rospkg
